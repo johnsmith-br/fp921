@@ -1,0 +1,62 @@
+header {
+    padding: 2em;
+    background-color: rgb(17, 122, 64);
+    margin-top: 5em;
+    color:azure;
+}
+#bq {
+    text-align:center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+
+.quote{
+    font-size: 2em;
+}
+
+.btn-large{
+    margin: 0.5em;
+}
+
+.card{
+    text-align:center;
+    width: 45em;
+}
+
+.new-quote-button {
+    background-color: #b4afca;
+    border-color: rgb(144, 197, 168);
+}
+
+#button:hover {
+    background-color: darkgrey;
+}
+
+.flex-bar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 1em;
+}
+
+.flex-item {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+}
+
+.container{
+    padding: 5em;
+}
